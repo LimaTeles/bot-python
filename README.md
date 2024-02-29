@@ -1,7 +1,7 @@
 # RPA openpyxl
 
 #### Uma forma de utilizar as funcionalidades da bibloteca openpyxl para manipular a analisar algumas planilhas de controle em excel
-##### Versions
+##### Versão
 ###### Python 3.10.9
 
 #### Descrição:
